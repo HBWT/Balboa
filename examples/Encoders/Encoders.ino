@@ -1,4 +1,4 @@
-// This program shows how to read the encoders on the Balboa 32U4.
+// This program shows you how to read the encoders on the Balboa 32U4.
 // The encoders can tell you how far, and in which direction each
 // motor has turned.
 //
